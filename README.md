@@ -1,32 +1,32 @@
-## Hello I'm Asep Nurdin 👋
+#### Hi, I'm 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&vCenter=true&width=250&lines=Asep+Nurdin+👋" />
 
-![Asep Nurdin](img/bg-asep.jpg)
+#### About Me
+Backend-focused developer with expertise in **API development, server-side architecture, databases, and DevOps**.  
+Experienced with **Go, PHP, Laravel**, and modern infrastructure like **Docker, Kubernetes, Jenkins, and AWS**.
 
-<!--
-**AsepNurdinDev/AsepNurdinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="img/bg-asep.jpg" alt="Asep Nurdin" width="100%" />
+</p>
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,php,go,laravel,jenkins,docker,kubernetes,aws,ubuntu,git&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,php,go,laravel,jenkins,docker,kubernetes,aws,ubuntu,git\&theme=light\&perline=5)](https://skillicons.dev)
 
-<!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> -->
+#### Connect With Me
 
-#### Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/aseppnrdn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aseppnurdin)
 
-![https://instagram.com/aseppnrdn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/aseppnurdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<p align="center">
+  <i>"Build systems that scale, not just code that works."</i>
+</p>
 
+<!-- CSS Animation (Works on GitHub limited support) -->
+
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-5px); }
+  100% { transform: translateY(0px); }
+}
+</style>
