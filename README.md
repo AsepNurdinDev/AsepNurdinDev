@@ -1,5 +1,5 @@
-#### Hi, I'm 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000000&vCenter=true&width=250&lines=Asep+Nurdin+👋" />
+### Hi, I'm 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=2000&color=FFFF&vCenter=true&width=250&lines=Asep+Nurdin+👋" />
 
 #### About Me
 Backend-focused developer with expertise in **API development, server-side architecture, databases, and DevOps**.  
@@ -20,13 +20,3 @@ Experienced with **Go, PHP, Laravel**, and modern infrastructure like **Docker, 
 <p align="center">
   <i>"Build systems that scale, not just code that works."</i>
 </p>
-
-<!-- CSS Animation (Works on GitHub limited support) -->
-
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-5px); }
-  100% { transform: translateY(0px); }
-}
-</style>
