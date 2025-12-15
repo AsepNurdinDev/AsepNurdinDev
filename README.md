@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,php,go,laravel,jenkins,docker,kubernetes,aws,ubuntu&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,php,go,laravel,jenkins,docker,kubernetes,aws,ubuntu,git&theme=light&perline=5)](https://skillicons.dev)
 
 <!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
