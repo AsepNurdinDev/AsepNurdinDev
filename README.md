@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello I'm Asep Nurdin 👋
+
+![Asep Nurdin](img/bg-asep.jpg)
 
 <!--
 **AsepNurdinDev/AsepNurdinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
