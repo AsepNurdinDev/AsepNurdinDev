@@ -11,7 +11,7 @@ Experienced with **Go, PHP, Laravel**, and modern infrastructure like **Docker, 
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,php,go,laravel,jenkins,docker,kubernetes,aws,ubuntu,git\&theme=light\&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,php,go,laravel,jenkins,docker,kubernetes,aws,ubuntu,nginx,git\&theme=light\&perline=6)](https://skillicons.dev)
 
 #### Connect With Me
 
